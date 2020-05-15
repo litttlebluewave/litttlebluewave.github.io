@@ -18,7 +18,7 @@ div {
 }
 
 header {
-  background: url(../img/bg11.jpg) no-repeat center top / cover;
+  background: url(../bg11.jpg) no-repeat center top / cover;
   height:700px;
 
 }
@@ -88,7 +88,7 @@ h1 {
 }
 
 .about {
-background: url(../img/backabout.jpg) no-repeat center / cover; 
+background: url(../backabout.jpg) no-repeat center / cover; 
 height: 700px;
 margin: 0 auto;
 }
@@ -124,7 +124,7 @@ margin: 0 auto;
 	margin-left:40px;
 }
 .book {
-	background: url(../img/bookbackground.jpg) no-repeat center bottom / cover; 
+	background: url(../bookbackground.jpg) no-repeat center bottom / cover; 
 height: 700px;
 margin: 0 auto;
 }
@@ -165,7 +165,7 @@ background: #ffcccc;
 }
 
 footer {
-background: url(../img/bgfooter.jpg) no-repeat center bottom / cover;
+background: url(../bgfooter.jpg) no-repeat center bottom / cover;
 margin: 0 auto;
 height: 700px;
 }
