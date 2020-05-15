@@ -108,7 +108,7 @@ margin: 0 auto;
 	margin: 0 auto;
 	padding-top: 50px;
 	padding-left: 650px;
-    padding-right: 70px;
+    padding-right: 90px;
 	font-size: 18px;
 	text-align: right;
 }
@@ -125,7 +125,7 @@ margin: 0 auto;
 }
 .book {
 	background: url(../bookbackground.jpg) no-repeat center bottom / cover; 
-height: 800px;
+height: 900px;
 margin: 0 auto;
 }
 .textbook {
@@ -133,7 +133,7 @@ color:#fff;
 	margin: 0 auto;
 	text-transform: uppercase;
 	padding-top: 70px;
-	padding-left: 50px;
+	padding-left: 90px;
 	font-size: 30px;
 	text-align: left;
 }
@@ -167,7 +167,7 @@ background: #ffcccc;
 footer {
 background: url(../bgfooter.jpg) no-repeat center bottom / cover;
 margin: 0 auto;
-height: 800px;
+height: 900px;
 }
 .booktext {
 	color:#fff;
