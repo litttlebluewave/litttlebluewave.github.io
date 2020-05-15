@@ -121,11 +121,11 @@ margin: 0 auto;
 .gallery {
 	margin: 0 auto;
 	float:center;
-	margin-left:40px;
+	margin-left:300px;
 }
 .book {
 	background: url(../bookbackground.jpg) no-repeat center bottom / cover; 
-height: 1400px;
+height: 1800px;
 margin: 0 auto;
 }
 .textbook {
