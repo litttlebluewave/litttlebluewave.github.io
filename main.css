@@ -121,7 +121,6 @@ margin: 0 auto;
 .gallery {
 	margin: 0 auto;
 	float:center;
-	margin-left:200px;
 }
 .book {
 	background: url(../bookbackground.jpg) no-repeat center bottom / cover; 
