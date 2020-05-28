@@ -1,7 +1,7 @@
 
 body {
 	width: 100%;
-	max-width: 1300px;
+	max-width: 1900px;
 	margin: 0 auto;
 	box-sizing: border-box;
 
@@ -111,20 +111,19 @@ margin: 0 auto;
 	color:#fff;
 	margin: 0 auto;
 	text-transform: uppercase;
-	padding-top: 70px;
-	padding-left: 850px;
-    padding-right: 30px;
+	padding-top: 7%;
 	font-size: 40px;
-	text-align: left;
+	text-align: center;
 
 }
 .aboutfull {
 		color:#fff;
 	margin: 0 auto;
-	padding-top: 50px;
-	padding-left: 650px;
-    padding-right: 30px;
+	padding-top: 7%;
+    padding-left: 5%;
+    padding right: 5%;
 	font-size: 16px;
+	float: center;
 	text-align: left;
 	max-width: 100%;
 }
@@ -138,14 +137,20 @@ margin: 0 auto;
 .gallery {
 	margin: 0 auto;
 	float:center;
-	margin-left:40px;
+	padding-left: 2%;
 	max-width: 100%;
 }
 .book {
-	background: url(../bookbackground.jpg) no-repeat center bottom / cover; 
+background: url(../bookbackground.jpg) no-repeat center bottom / cover; 
 height: 700px;
 margin: 0 auto;
 max-width: 100%;
+}
+.cover {
+	margin: 0 auto;
+	float: right;
+	padding-right: 5%;
+	max-width: 100%;
 }
 .textbook {
 color:#fff;
