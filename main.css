@@ -142,7 +142,7 @@ padding-right: 2%;
 	max-width: 100%;
 }
 .artsbutton {
-	background: #3336;
+	background: #ffcccc;
 	color: #fff;
 	border-radius: 3px;
 	display: block;
@@ -156,6 +156,7 @@ padding-right: 2%;
 	font-size: 18px;
 	margin-top: 20px;
 	max-width: 100%;
+        margin-bottom: 20px
 }
 .book {
 background: url(../bookbackground.jpg) no-repeat center bottom / cover; 
